@@ -1,0 +1,9 @@
+        TXD RXD CTS RTS     Board Pins
+uart0   14  15              8   10
+uart1   14  15              8   10
+uart2   0   1   2   3       27  28  (I2C0)
+uart3   4   5   6   7       7   29
+uart4   8   9   10  11      24  21  (SPI0)
+uart5   12  13  14  15      32  33  (gpio-fan)
+
+

@@ -1,0 +1,19 @@
+
+
+
+
+
+
+== Done in V2 ==
+2nd, 3rd, 4th serialport breakoout.
+Flip FTDI and HC-12 so normal 90deg angle is faceing the other way.
+ Mark pins that need to be soldered with a box or ring.
+Select Serial1/2 to raspberry, and also disable to raspberry.
+HC-12 to raspberry. third port with tx/rx switched.
+Hole for mounting SMA outside body
+I2C for RTC Clock
+Move 5v led resistor not to interfere with ns-hp female header.( Seems to be working)
+RTK and PPS select Active high or active low. (gnd or 5v connection)
+Sparkfun module pinout is wrong 
+HC-12 mounted 90degrees over other stuff. 
+
